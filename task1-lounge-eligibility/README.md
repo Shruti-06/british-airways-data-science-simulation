@@ -33,7 +33,9 @@ Percentages are a share of all seats on a flight. Each passenger is counted once
 
 **Accuracy:** on the sample week, estimated eligible passengers were within about 5% of actual for every tier. Across all 10,000 flights, they were within 2%.
 
-![First guess vs actual](images/first_guess_vs_actual.png)
+![First guess vs final lookup vs actual](images/final_vs_actual.png)
+
+The first guesses (grey) were far off, especially on short-haul. The final lookup (red) sits almost exactly on the actual figures (navy).
 
 ## Why short-haul is higher
 
