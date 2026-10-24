@@ -2,7 +2,7 @@
 
 My work for the [British Airways Data Science job simulation on Forage](https://www.theforage.com/). It has two tasks: estimating lounge demand at Heathrow Terminal 3, and predicting whether a customer will complete a booking.
 
-**Certificate:** [View completion certificate](certificate.pdf)
+**Certificate:** [View completion certificate](BritishAirways_Forage_Certificate.pdf)
 
 | Task | What I did | Main result |
 |---|---|---|
