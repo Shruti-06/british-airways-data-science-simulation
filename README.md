@@ -2,6 +2,8 @@
 
 My work for the [British Airways Data Science job simulation on Forage](https://www.theforage.com/). It has two tasks: estimating lounge demand at Heathrow Terminal 3, and predicting whether a customer will complete a booking.
 
+**Certificate:** [View completion certificate](certificate.pdf)
+
 | Task | What I did | Main result |
 |---|---|---|
 | [1. Lounge eligibility](task1-lounge-eligibility/) | Built a lookup table that estimates the share of passengers eligible for each BA lounge tier, by flight group | Haul type drives eligibility. Short-haul has a higher eligible share than long-haul. The lookup came within about 2% of actual eligible passengers across 10,000 flights |
